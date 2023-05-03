@@ -2,10 +2,12 @@
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-39279a225/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luscas_ldl/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/luscas_ldl/)
 
 
-![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luscasldl&show_icons=true&theme=radical)
+![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kitoldl&show_icons=true&theme=radical)
+<img align="right" alt="luscas-pic" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/392106/screenshots/7495952/media/f3aa559895ddd0196ffc35bffe826d3a.gif">
+
 
 ### Tecnologias que uso no dia a dia
 
