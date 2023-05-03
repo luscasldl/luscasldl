@@ -6,7 +6,7 @@
 
 
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kitoldl&show_icons=true&theme=radical)
-<img align="right" alt="luscas-pic" height="290" style="" src="https://cdn.dribbble.com/users/392106/screenshots/7495952/media/f3aa559895ddd0196ffc35bffe826d3a.gif">
+<img align="right" alt="luscas-pic" height="100" style="" src="https://cdn.dribbble.com/users/392106/screenshots/7495952/media/f3aa559895ddd0196ffc35bffe826d3a.gif">
 
 
 ### Tecnologias que uso no dia a dia
