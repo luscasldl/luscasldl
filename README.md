@@ -1,4 +1,4 @@
-### Olá eu sou o Lucas Monteiro Callegairo 🖖
+### Olá eu sou o Lucas Callegairo 🖖
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-39279a225/)
@@ -13,7 +13,8 @@
   <img align="center" alt= "html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt= "html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt= "html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img align="center" alt= "html5" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-
-Sou completamente apaixonado por tecnologia e obcecado por conhecimento. 😎
+  <img align="center" alt= "html5" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> 
+  <img align="center" alt= "html5" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  
+  Sou completamente apaixonado por tecnologia e obcecado por conhecimento. 😎
 </div>
