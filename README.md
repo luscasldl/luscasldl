@@ -1,4 +1,4 @@
-### Olá eu sou o Lucas Callegairo 🖖
+### Olá eu sou o Lucas Callegario 🖖
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-39279a225/)
